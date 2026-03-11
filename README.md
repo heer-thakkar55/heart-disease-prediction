@@ -119,7 +119,7 @@ Feature importance analysis revealed that the following attributes play a signif
 
 ## Project Structure
 
-heart-disease-prediction │ ├── Heart_Disease_Prediction.ipynb ├── documentation.pdf ├── README.md 
+heart-disease-prediction │ ├── Documentation.pdf ├── Heart_Disease_Prediction.ipynb ├── README.md 
 
 ## Conclusion
 
